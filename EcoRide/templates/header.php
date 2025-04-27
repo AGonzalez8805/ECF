@@ -21,9 +21,9 @@
                 <img src="/EcoRide/Asset/images/LOGO EcoRide  avec une voiture écologie.jpg" alt="" class="w-20 h-20 ml-8 rounded-full">
             </a>
             <nav class=" md:ml-auto md:mr-auto flex flex-wrap items-center justify-center">
-                <a class="mr-5 hover:text-white">Covoiturage</a>
-                <a class="mr-5 hover:text-white">Contact</a>
-                <a class="mr-5 hover:text-white">Connexion</a>
+                <a href="/covoiturage.php" class="mr-5 hover:text-white">Covoiturage</a>
+                <a href="/contact.php" class="mr-5 hover:text-white">Contact</a>
+                <a href="/connexion.php" class="mr-5 hover:text-white">Connexion</a>
             </nav>
         </div>
     </header>

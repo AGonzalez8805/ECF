@@ -33,7 +33,7 @@ require_once "templates/header.php";
             <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium">Qui sommes-nous?</h1>
         </div>
         <div class="flex flex-col items-center w-full max-w-4xl mx-auto relative">
-            <img class=" w-full max-w-3xl mx-auto mb-8 opacity-30" alt="hero" src="/EcoRide/Asset/images/imagefond.png">
+            <img class=" w-full max-w-3xl mx-auto mb-8 opacity-30" alt="hero" src="/Asset/images/imagefond.png">
             <div class="absolute inset-0 flex items-center justify-center">
                 <div class="text-center w-full md:w-5/6 mx-auto px-4">
                     <p class="leading-relaxed mb-8 text-lg md:text-xl">
@@ -60,12 +60,12 @@ require_once "templates/header.php";
         <div class="flex flex-wrap -mx-4 -mb-10 text-center">
             <div class="sm:w-1/2 mb-10 px-4">
                 <div class="rounded-lg h-150 overflow-hidden">
-                    <img alt="content" class="object-cover object-center h-full w-full" src="/EcoRide/Asset/images/Hybrid 1.png">
+                    <img alt="content" class="object-cover object-center h-full w-full" src="/Asset/images/Hybrid 1.png">
                 </div>
             </div>
             <div class="sm:w-1/2 mb-10 px-4">
                 <div class="rounded-lg h-150 overflow-hidden">
-                    <img alt="content" class="object-cover object-center h-full w-full" src="/EcoRide/Asset/images/Electric 1.png">
+                    <img alt="content" class="object-cover object-center h-full w-full" src="/Asset/images/Electric 1.png">
                 </div>
             </div>
         </div>
